@@ -1,0 +1,2 @@
+class Bycycle < ApplicationRecord
+end
